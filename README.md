@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on open-source back-end projects and building sustainable tech communities.
 - 🤔 I’m looking for help with more advanced knowledge on Laravel and a possible diversification to DevOps.
 - 💬 Ask me about Volunteering, Backend Engineering and Database Engineering.
-- 😄 Pronouns: He/ She 💕
+- 😄 Pronouns: Her/She 💕
 - ⚡ Fun fact: I am in a radiant relationship with the Holy Spirit😉
 
 I create tech content on hashnode and developers community , here are some of my articles🤩:

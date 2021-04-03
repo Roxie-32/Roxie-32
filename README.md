@@ -1,7 +1,7 @@
 
-### <div align = "center">Hi👋, I'm Olasupo Funke Faith.😊 
-  <p> I am a Backend developer, Technical Writer, Public Speaker and Volunteer. I am interested in taking all things the backend way 😘🎉.  
-    I am very passionate about       learning, technology, volunteering , talking and, the gospel of Christ💕.</p>
+### <div align = "center">Hi👋, I'm Olasupo Funke Faith 😊. 
+  <p> I am a Backend developer, Technical Writer, Public Speaker and Volunteer. I am interested in taking all things the backend way 😜.  
+    I am very passionate about learning, technology, volunteering , talking and, the gospel of Christ💕.</p>
 </div>
 
 
@@ -34,4 +34,4 @@ I create tech content on hashnode and developers community , here are some of my
  <a href="https://dev.to/roxie">![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a> <a href="https://hashnode.com/@Roxie">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a> <a href="https://www.linkedin.com/in/olasupofunke/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href="https://www.facebook.com/funke.olasupo.3/">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>  <a href="https://www.instagram.com/roxie_dev/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href="https://twitter.com/OlasupoFunke">![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
  
  ##### Remark
- If there is one thing i cherish the most wherever i find myself, It would be the opportunity to be able to impact/ give back to my society.💜🙇‍♀️ 
+ If there is one thing i cherish the most wherever I find myself, It would be the opportunity to be able to impact/ give back to my society💜🙇‍♀️ .

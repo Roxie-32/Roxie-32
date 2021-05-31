@@ -25,6 +25,7 @@ I create tech content on hashnode and developers community , here are some of my
  ##### Volunteeer Experience
  
  * Core Member, Google Developers Students Club(DSC) OAUSTECH.
+ * Backend Developer, CodeVixens Team.
  * Director for Frameworks(Instructor), Inventors Developers Community.
  * Team Lead, 360 Volunteeer Network.
  * Intern, Riv-Techcreek Nigeria.

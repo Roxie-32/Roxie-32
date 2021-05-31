@@ -1,5 +1,5 @@
 
-### <div align = "center">Hi👋, I'm Olasupo Funke Faith 😊. 
+### <div align = "center">Hi👋, I'm  Funke Faith Olasupo 😊. 
   <p> I am a Backend developer, Technical Writer, Public Speaker and Volunteer. I am interested in taking all things the backend way 😜.  
     I am very passionate about learning, technology, volunteering , talking and, the gospel of Christ💕.</p>
 </div>

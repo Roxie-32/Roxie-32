@@ -14,9 +14,14 @@
 - 😄 Pronouns: Her/She 💕
 - ⚡ Fun fact: I am in a radiant relationship with the Holy Spirit😉
 
-I create tech content on hashnode and developers community , here are some of my articles🤩:
+I create technical content on hashnode and developers community , here are some of my articles🤩:
+* [How To connect Laravel Application to MySQL Database.](https://dev.to/roxie/how-to-connect-laravel-application-to-mysql-database-5han)
+* [Adding and Removing columns from existing tables using Laravel migrations.](https://dev.to/roxie/adding-and-removing-columns-from-existing-tables-using-laravel-migrations-389g)
 * [Form Requests Validation In Laravel 8](https://roxie.hashnode.dev/form-requests-validation-in-laravel-8)
 * [How To Import Data From an Excel File To Your Database(MySQL) using PHPMyAdmin.](https://dev.to/roxie/how-to-import-data-from-an-excel-file-to-your-database-mysql-using-phpmyadmin-42ip)
+* [HackerRank Series #1: Simple Array Sum](https://dev.to/roxie/hackerrank-series-1-simple-array-sum-p49)
+
+
 
 ##### Technology & Tools
 

@@ -6,8 +6,9 @@
 </div>
 
 
-- 🔭 I’m currently working on building an improved documentation for [OpenFoodFacts](https://wiki.openfoodfacts.org/GSOD2022_API_documentation) as part of [Google Season OF Docs](https://developers.google.com/season-of-docs).
+- 🔭 I’m currently working on building an improved documentation for [OpenFoodFacts](https://wiki.openfoodfacts.org/GSOD2022_API_documentation) as part of [Google Season Of Docs](https://developers.google.com/season-of-docs).
 - 🌱 I’m currently learning more about Backeend Engineering & Systems Design.
+- 🔭 I’m also working on some crypto trading solutions projects
 - 👯 I’m looking to collaborate on more open-source projects and building sustainable tech communities.
 - 💬 Ask me about Community, Backend Engineering and Technical Writing.
 - 😄 Pronouns: Her/She 💕
